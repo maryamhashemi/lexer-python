@@ -1,0 +1,6 @@
+c:\users\maryam\documents\visual studio 2015\Projects\lexerPython\lexerPython\bin\Debug\lexerPython.exe.config
+c:\users\maryam\documents\visual studio 2015\Projects\lexerPython\lexerPython\bin\Debug\lexerPython.exe
+c:\users\maryam\documents\visual studio 2015\Projects\lexerPython\lexerPython\bin\Debug\lexerPython.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\lexerPython\lexerPython\obj\Debug\lexerPython.csprojResolveAssemblyReference.cache
+c:\users\maryam\documents\visual studio 2015\Projects\lexerPython\lexerPython\obj\Debug\lexerPython.exe
+c:\users\maryam\documents\visual studio 2015\Projects\lexerPython\lexerPython\obj\Debug\lexerPython.pdb
